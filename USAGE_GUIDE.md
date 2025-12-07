@@ -24,8 +24,8 @@
 ### 第一步：克隆项目
 
 ```bash
-git clone https://github.com/LeroyPine/AI-test.git
-cd AI-test
+git clone https://github.com/LeroyPine/weather-mcp-server.git
+cd weather-mcp-server
 ```
 
 ### 第二步：编译项目
@@ -66,7 +66,7 @@ Started WeatherMcpApplication in X.XXX seconds
       "command": "java",
       "args": [
         "-jar",
-        "/Users/你的用户名/AI-test/target/weather-mcp-server-1.0.0.jar"
+        "/Users/你的用户名/weather-mcp-server/target/weather-mcp-server-1.0.0.jar"
       ]
     }
   }
@@ -247,7 +247,7 @@ if ("get_air_quality".equals(toolName)) {
 
 欢迎提交 Issue 和 Pull Request！
 
-项目地址：https://github.com/LeroyPine/AI-test
+项目地址：https://github.com/LeroyPine/weather-mcp-server
 
 ## 📄 许可证
 
