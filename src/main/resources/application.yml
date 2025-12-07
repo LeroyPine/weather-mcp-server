@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: weather-mcp-server
+
+logging:
+  level:
+    root: INFO
+    com.leroypine.weathermcp: DEBUG
